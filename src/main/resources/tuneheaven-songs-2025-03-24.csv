@@ -1,0 +1,15 @@
+song_name,song_id,artist_name,artist_id,user_id,review_rating,genre
+Bit by the Wild Bytes,97e06a5a-5d6d-4676-8a2b-25c5afc01213,The Bittles,892c5326-26b5-4022-9104-c44480237421,34746d86-7aa2-43cd-bcd7-c400c2d29200,4,EDM
+Binary February,6a6475fd-d2da-42fa-92d1-1124d97418d5,Andrew Smith,a17e5076-7b67-4d25-b511-2c3ebdec9858,c05a2840-6caf-4eb6-a26a-9f23ebfb6036,3,ROCK
+Summer Time and Spring Boot,ea4de8dd-d845-4a6d-84de-fa057e4d2fef,New Distro,a17e5076-7b67-4d25-b511-2c3ebdec9858,a54ef13d-b627-4cec-8106-f4b5143934a7,2,POP
+Feeling Like Lossy Compression,75d046f5-61b2-4d17-aa5e-dda27a644b7b,Rentention,8ed4b076-c994-454e-96e3-93f1677ed3d0,a54ef13d-b627-4cec-8106-f4b5143934a7,2,POP
+YAMLed To The Limit,794c85b1-fd70-429d-8c5a-ef4f26587fd3,New Distro,a17e5076-7b67-4d25-b511-2c3ebdec9858,a54ef13d-b627-4cec-8106-f4b5143934a7,4,ROCK
+A Father and J Son,1a970cf9-6150-4886-9850-0156d58a90ad,The Bittles,892c5326-26b5-4022-9104-c44480237421,34746d86-7aa2-43cd-bcd7-c400c2d29200,5,EDM
+Concurrent Universe,2bc5d440-3dce-4df1-a2db-a2fc16f7742f,The Compiler,3e168ebb-f65d-4d75-9fc4-43dd0812c56b,6567ae0d-88e2-48e3-b986-123f7ee83e57,4,ROCK
+Java Adore,889d147f-a0c3-465a-a479-13a5a7fed46b,Rentention,8ed4b076-c994-454e-96e3-93f1677ed3d0,f830dabd-8fd1-46e9-a43f-6c5d681fd8a9,4,ROCK
+Vulnerable Lke The Code,6257db54-b7b7-4bb8-9cc5-a3877e62e62d,Rentention,8ed4b076-c994-454e-96e3-93f1677ed3d0,3e168ebb-f65d-4d75-9fc4-43dd0812c56b,5,EDM
+YAMLed To The Limit,794c85b1-fd70-429d-8c5a-ef4f26587fd3,New Distro,a17e5076-7b67-4d25-b511-2c3ebdec9858,34746d86-7aa2-43cd-bcd7-c400c2d29200,4,ROCK
+Beetwen the Lines of Code,427422ea-ab96-49a8-bb10-8eb9e32cdeda,The Bittles,892c5326-26b5-4022-9104-c44480237421,34746d86-7aa2-43cd-bcd7-c400c2d29200,3,EDM
+YAMLed To The Limit,794c85b1-fd70-429d-8c5a-ef4f26587fd3,New Distro,a17e5076-7b67-4d25-b511-2c3ebdec9858,1901a446-ce92-4f62-9ead-ba4bdeeae2f7,5,ROCK
+Like The Merging,84818d99-5148-4603-8919-44cdf73212b8,The Compiler,3e168ebb-f65d-4d75-9fc4-43dd0812c56b,6567ae0d-88e2-48e3-b986-123f7ee83e57,4,POP
+All the Singletons,f2ae0430-3a15-4930-8fdf-cd73aafdc60b,Bityonce,6e61f90f-788f-49f3-8cb2-e4a979d98bd6,34746d86-7aa2-43cd-bcd7-c400c2d29200,5,POP
